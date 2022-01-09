@@ -1,0 +1,17 @@
+log.txt
+yarn.lock
+.idea
+.angular/*
+.ionic/
+.sass-cache/
+.sourcemaps/
+.versions/
+.vscode/
+resources/*
+coverage/
+dist/
+node_modules/*
+platforms/*
+plugins/*
+www/*
+www/lib/*
